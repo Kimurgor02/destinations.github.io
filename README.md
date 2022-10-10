@@ -20,3 +20,6 @@ You may also see any lint errors in the console.
 2. App should have at least 5 components
 3. There should be at least 3 client-side routes using react-router
 
+## Link to the live page
+
+https://kimurgor02.github.io/destinations.github.io/
