@@ -22,4 +22,4 @@ You may also see any lint errors in the console.
 
 ## Link to the live page
 
-https://kimurgor02.github.io/destinations.github.io/
+https://magical-pony-e76153.netlify.app
